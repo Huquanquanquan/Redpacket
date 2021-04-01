@@ -1,0 +1,13 @@
+[
+    {
+        "modid": "redpacket",
+        "name": "RedPacket",
+        "description": "on RedPacket plugin",
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    }
+]

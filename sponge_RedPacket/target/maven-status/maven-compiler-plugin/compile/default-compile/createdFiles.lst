@@ -1,0 +1,15 @@
+cn\mokier\redpacket\config\Chat.class
+cn\mokier\redpacket\utils\ConfigUtils.class
+cn\mokier\redpacket\utils\NumberUtils.class
+cn\mokier\redpacket\config\ConfigLang.class
+cn\mokier\redpacket\commands\CommandMain.class
+cn\mokier\redpacket\config\Config.class
+cn\mokier\redpacket\packet\PacketManager.class
+cn\mokier\redpacket\commands\CommandReceive.class
+cn\mokier\redpacket\packet\Packet$PacketBuilder.class
+cn\mokier\redpacket\commands\CommandMoney.class
+cn\mokier\redpacket\commands\CommandManager.class
+cn\mokier\redpacket\commands\CommandPoints.class
+cn\mokier\redpacket\packet\Packet.class
+mcmod.info
+cn\mokier\redpacket\RedPacket.class
